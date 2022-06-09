@@ -32,7 +32,9 @@
 
 - 🤝 I just copy paste
 
-- 📫 How to reach me  [`Whatsapp`](https://wa.me/6288292024190?text=halo+bang)
+- 📫 How to reach me  [`Whatsapp`](https://wa.me/6285772674695?text=halo+bang)
+
+- 🤖 My Bot Number (Don't Spam!) [`Whatsapp`](https://wa.me/6288905703349?text=menu)
 
 - ⚡ My hobby is Playing Badminton and Playing Games
 
