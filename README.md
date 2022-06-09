@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="https://telegra.ph/file/f065d5e83ddd30873ae96.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
+<img src="https://telegra.ph/file/bfdd08cf87f9a01927688.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
 <h1 align='center'>Hello, This is a little bit about me and my Github account</h1>
