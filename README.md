@@ -3,7 +3,9 @@
 <img src="https://telegra.ph/file/bfdd08cf87f9a01927688.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
-<h1 align='center'>Hello, This is a little bit about me and my Github account</h1>
+<h1 align='center'>Hello, Welcome to Account Github Official FahriBotz
+
+Nice to meet you</h1>
 
 <p align='center'>Hi There, I'm Fahri</p>
 
